@@ -1,0 +1,28 @@
+{
+  "name": "navbar-project",
+  "version": "1.0.0",
+  "description": "A navbar project developed with JavaScript, CSS3, media queries, responsive design integration techniques",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SinemSungur/navbar.git"
+  },
+  "keywords": [
+    "css3",
+    "html5",
+    "javascript",
+    "responsive-web-design",
+    "media-queries"
+  ],
+  "author": "Sinem Sungur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SinemSungur/navbar.git/issues"
+  },
+  "homepage": "https://github.com/SinemSungur/navbar.git#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
